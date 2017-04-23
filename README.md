@@ -1,1 +1,1 @@
-Just a set of tasks solved at www.checkio.org.
+Just a set of tasks solved at www.checkio.org
